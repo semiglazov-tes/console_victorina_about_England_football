@@ -1,0 +1,14 @@
+D:\С# project\Scilbox\IntensivDay1\bin\Debug\netcoreapp3.1\ConsoleBot.exe
+D:\С# project\Scilbox\IntensivDay1\bin\Debug\netcoreapp3.1\VictorinaQuestions.txt
+D:\С# project\Scilbox\IntensivDay1\bin\Debug\netcoreapp3.1\ConsoleBot.deps.json
+D:\С# project\Scilbox\IntensivDay1\bin\Debug\netcoreapp3.1\ConsoleBot.runtimeconfig.json
+D:\С# project\Scilbox\IntensivDay1\bin\Debug\netcoreapp3.1\ConsoleBot.runtimeconfig.dev.json
+D:\С# project\Scilbox\IntensivDay1\bin\Debug\netcoreapp3.1\ConsoleBot.dll
+D:\С# project\Scilbox\IntensivDay1\bin\Debug\netcoreapp3.1\ConsoleBot.pdb
+D:\С# project\Scilbox\IntensivDay1\obj\Debug\netcoreapp3.1\ConsoleBot.csprojAssemblyReference.cache
+D:\С# project\Scilbox\IntensivDay1\obj\Debug\netcoreapp3.1\ConsoleBot.AssemblyInfoInputs.cache
+D:\С# project\Scilbox\IntensivDay1\obj\Debug\netcoreapp3.1\ConsoleBot.AssemblyInfo.cs
+D:\С# project\Scilbox\IntensivDay1\obj\Debug\netcoreapp3.1\ConsoleBot.csproj.CoreCompileInputs.cache
+D:\С# project\Scilbox\IntensivDay1\obj\Debug\netcoreapp3.1\ConsoleBot.dll
+D:\С# project\Scilbox\IntensivDay1\obj\Debug\netcoreapp3.1\ConsoleBot.pdb
+D:\С# project\Scilbox\IntensivDay1\obj\Debug\netcoreapp3.1\ConsoleBot.genruntimeconfig.cache
